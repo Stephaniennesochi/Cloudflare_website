@@ -362,4 +362,21 @@ video{
 .video-sect{
     margin-left: 16em;
     line-height: 1.2;
+    margin-bottom: 10em;
+}
+.logos{
+    display: flex;
+    gap: 50px;
+    margin-left: 12%;
+}
+.logo{
+    height: 70px;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center;
+    margin-bottom: 6em;
+}
+#logo-container{
+    text-align: center;
+    margin-bottom: 2em;
 }
