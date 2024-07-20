@@ -244,45 +244,44 @@ header{
 }
 .container{
     border: 1px solid #ed6618;
-    height: 800px;
-    width: 1300px;
+    height: 600px;
+    width: 1000px;
     padding: 48px;
     border-radius: 20px;
     margin-top: 6em;
-    margin-left: 3em;
     padding-right: 5em;
 }
 .container-head{
-    font-size: 40px;
+    font-size: 28px;
     font-weight: 600;
     text-align: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .flexbox-p{
     color: #ed6618;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 600;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .flexbox-para{
     color: #383535;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.6;
     margin-bottom: 4em;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .flexbox-img{
-    width: 160px;
-    margin-left: 8em;
+    width: 100px;
+    margin-left: 5em;
 }
 .flexbox-link{
-    font-size: 20px;
+    font-size: 14px;
     color: #222222;
     font-weight: 600;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .p-contact{
-    font-size: 22px;
+    font-size: 16px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #contact{
@@ -290,15 +289,15 @@ header{
     margin-top: 5em;
 }
 .sub-container{
-    font-size: 42px;
+    font-size: 34px;
     font-weight: 600;
     text-align: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .main-grid{
     display: grid;
-    grid-template-columns: 450px 450px 450px;
-    column-gap: 70px;
+    grid-template-columns: 350px 350px 350px;
+    column-gap: 50px;
     margin-left: 13%;
     margin-top: 5em;
 }
