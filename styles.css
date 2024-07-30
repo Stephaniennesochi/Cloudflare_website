@@ -1128,9 +1128,9 @@ footer > *{
         padding-bottom: 5em;
     }
     .footer-grid{
-        display: flex;
-        margin-left: 14%;
-        gap: 50px;
+        display: grid;
+        grid-template-columns: 150px 150px;
+        gap: 20px;
     }
     .footer-head{
         color: white;
@@ -1150,7 +1150,6 @@ footer > *{
     }
     #footer-social-icons{
         margin-top: 5em;
-        margin-left: 13em;
         display: flex;
         gap: 20px;
     }
