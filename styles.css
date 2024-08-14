@@ -674,7 +674,49 @@ footer > *{
     position: relative;
     top: 15em ;
 }
-
+.product-subheader{
+    line-height: 2;
+}
+.product-para{
+    color: #5E5E5E;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.6;
+}
+.product-head{
+    color: #993d1f !important;
+    font-weight: 600;
+    margin-bottom: 22%;
+}
+.product-p{
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 12%;
+}
+.product-grid{
+    display: grid;
+    grid-template-columns: 240px 270px 270px;
+    column-gap: 60px;
+    margin-top: 2.6em;
+    margin-left: 6%;
+}
+.product-btn{
+    border-radius: 8px;
+    width: 260px;
+    height: 48px;
+    font-size: 14px;
+    padding: 8px;
+    background-color: #FF6633;
+    border: none;
+    color: #222222;
+    position: relative;
+    top: 15em ;
+}
+.view{
+    position: relative;
+    top: 12em ;
+    font-weight: 600;
+}
 
 
 @media (max-width: 600px){
