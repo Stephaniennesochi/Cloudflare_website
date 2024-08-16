@@ -643,6 +643,7 @@ footer > *{
 }
 .solution-subheader{
     line-height: 2;
+    border-right: 1px solid #e3e0e0;
 }
 .subheader-p{
     color: #494545;
@@ -663,7 +664,7 @@ footer > *{
     grid-template-columns: 250px 260px 250px;
     column-gap: 60px;
     margin-top: 2.6em;
-    margin-left: 5%;
+    margin-left: 4%;
 }
 .solution-btn{
     border-radius: 8px;
@@ -674,11 +675,13 @@ footer > *{
     background-color: #FF6633;
     border: none;
     color: #222222;
+    margin-right: 1em;
     position: relative;
     top: 15em ;
 }
 .product-subheader{
     line-height: 2;
+    border-right: 1px solid #e3e0e0;
 }
 .product-para{
     color: #5E5E5E;
@@ -701,7 +704,7 @@ footer > *{
     grid-template-columns: 240px 270px 270px;
     column-gap: 60px;
     margin-top: 2.6em;
-    margin-left: 5%;
+    margin-left: 4%;
 }
 .product-btn{
     border-radius: 8px;
@@ -712,16 +715,18 @@ footer > *{
     background-color: #FF6633;
     border: none;
     color: #222222;
+    margin-right: 1em;
     position: relative;
     top: 15em ;
 }
-.view{
+#view{
     position: relative;
     top: 12em ;
     font-weight: 600;
 }
 .pricing-subheader{
     line-height: 2;
+    border-right: 1px solid #e3e0e0;
 }
 .pricing-para{
     color: #5E5E5E;
@@ -739,7 +744,7 @@ footer > *{
     grid-template-columns: 260px 260px 270px;
     column-gap: 60px;
     margin-top: 2.6em;
-    margin-left: 5%;
+    margin-left: 4%;
 }
 .pricing-btn{
     border-radius: 8px;
@@ -750,16 +755,19 @@ footer > *{
     background-color: #FF6633;
     border: none;
     color: #222222;
+    margin-right: 1em;
     position: relative;
-    top: 13em ;
+    top: 11em ;
 }
 .view{
     position: relative;
-    top: 10em ;
+    top: 9em ;
     font-weight: 600;
 }
 .resources-subheader{
+    width: 220px;
     line-height: 1.8;
+    border-right: 1px solid #e3e0e0;
 }
 .resources-para{
     color: #5E5E5E;
@@ -781,10 +789,11 @@ footer > *{
     grid-template-rows: 100px 100px 100px;
     column-gap: 60px;
     margin-top: 2.1em;
-    margin-left: 10%;
+    margin-left: 4%;
 }
 .partners-subheader{
     line-height: 1.8;
+    border-right: 1px solid #e3e0e0;
 }
 .partners-btn{
     border-radius: 8px;
@@ -795,6 +804,7 @@ footer > *{
     background-color: #FF6633;
     border: none;
     color: #222222;
+    margin-right: 1em;
     position: relative;
     top: 21em ;
 }
@@ -815,10 +825,11 @@ footer > *{
     grid-template-rows: 130px 130px ;
     column-gap: 60px;
     margin-top: 2.1em;
-    margin-left: 10%;
+    margin-left: 4%;
 }
 .whycloudflare-subheader{
     line-height: 2;
+    border-right: 1px solid #e3e0e0;
 }
 .whycloudflare-head{
     color: #993d1f !important;
@@ -841,7 +852,7 @@ footer > *{
     grid-template-columns: 260px 260px;
     column-gap: 60px;
     margin-top: 2.6em;
-    margin-left: 7%;
+    margin-left: 4%;
 }
 .whycloudflare-btn{
     border-radius: 8px;
@@ -852,6 +863,7 @@ footer > *{
     background-color: #FF6633;
     border: none;
     color: #222222;
+    margin-right: 1em;
     position: relative;
     top: 23em ;
 }
